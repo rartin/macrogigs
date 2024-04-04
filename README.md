@@ -2,7 +2,7 @@
 
 https://github.com/rartin/macrogigs.github.io.git
 
-# OR:
+## OR:
 
 echo "# macrogigs.github.io" >> README.md
 git init
@@ -12,13 +12,13 @@ git branch -M main
 git remote add origin https://github.com/rartin/macrogigs.github.io.git
 git push -u origin main
 
-# OR:
+## OR:
 
 git remote add origin https://github.com/rartin/macrogigs.github.io.git
 git branch -M main
 git push -u origin main
 
-# OR:
+## OR:
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 https://github.com/rartin/macrogigs.github.io/import
